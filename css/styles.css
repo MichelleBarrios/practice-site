@@ -1,0 +1,56 @@
+
+.navbar-default{
+  background-color: pink;
+  color: ivory;
+}
+
+  .jumbotron {
+      padding: 30px, 50px, 50px, 30px;
+      margin-top: -21px, 30px, 51px, 3px;
+      text-align: center;
+      color: rgba(0,0,0,.5);
+      background-color: whitesmoke;
+}
+
+/*Footer Styles*/
+footer{
+  height: 75px;
+  width: 100%;
+  background-color: #333;
+  clear: both;
+
+}
+.copyright p{
+  margin: 0 30px;
+  text-align: center;
+  float:left;
+  font-size: 8pt;
+  padding: 30px 0;
+  color: #fff;
+}
+
+.follow-us p{
+    margin: 0;
+    text-align: center;
+    float:right;
+    font-size: 8pt;
+    padding: 30px 200px;
+    color: #fff;
+}
+.sm-icons{
+  width: 180px;
+  height: 50px;
+  margin: 20px -350px;
+  float: right;
+}
+
+
+.icon i{
+  font-size: 10pt;
+  text-align: center;
+  color: #fff;
+  padding: 30px 200px;
+  padding: 10px;
+  float: right;
+  diplay: inline
+}
